@@ -173,7 +173,13 @@ aside {
 	text-align: center;
 	padding: 0 10px;
 }
-
+.sim{
+	color: #444;
+	font-weight: 300;
+	font-size: 1.8em;
+	margin-bottom: 10px;
+	font-family:'Open Sans';
+}
 #intro h2 {
 	color: #444;
 	font-weight: 300;
@@ -196,6 +202,15 @@ aside {
 #intro p a:hover {
 	color: #444;
 	border-bottom-color: #999;
+}
+#a{
+	padding:10px;
+	color:#777;
+	font-family:'Open Sans';
+	font-size:15px;
+	border-radius:15px;
+	border:solid 1px #eee;
+	width:40%;
 }
 #name{
 
